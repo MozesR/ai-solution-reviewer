@@ -35,4 +35,4 @@ docker-compose up --build
 - JWT Authentication via `/api/token/`
 - Media files (PDFs, docs) stored in `media/` in backend container
 
-Enjoy!
+Enjoy!# ai-solution-reviewer
