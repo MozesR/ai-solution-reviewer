@@ -10,7 +10,7 @@ This is the full-stack project split into two apps:
 ### 1. Clone and Setup
 
 ```bash
-git clone https://github.com/your-org/ai-solution-reviewer.git
+git clone https://github.com/MozesR/ai-solution-reviewer.git
 cd ai-solution-reviewer
 cp ai-solution-reviewer-backend/.env.example ai-solution-reviewer-backend/.env
 ```
